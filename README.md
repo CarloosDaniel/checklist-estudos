@@ -3,7 +3,9 @@
 Este projeto visa auxiliar estudantes a organizarem suas rotinas de estudo de forma eficiente, garantindo que todos os tópicos sejam abordados e revisados adequadamente.O Checklist de Estudo é uma ferramenta que permite criar e gerenciar listas de tarefas relacionadas aos estudos, ajudando a manter o foco e a disciplina.
 
 ●Motivação: A ideia surgiu da necessidade de ter um controle mais rígido sobre os estudos, evitando esquecimentos e procrastinação.
+
 ●Desafios: Implementar uma interface intuitiva e repassar uma melhor experiência aos usuários 
+
 ●Aprendizado: Aprendi sobre gestão de tempo, técnicas de produtividade e como utilizar ferramentas de desenvolvimento para criar soluções práticas.
 
 
