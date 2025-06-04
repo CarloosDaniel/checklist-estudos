@@ -11,13 +11,19 @@ Este projeto visa auxiliar estudantes a organizarem suas rotinas de estudo de fo
 
 #  Funcionalidades
 Criação e edição de checklists personalizados.
+
 Matérias para escolha.
+
 Marcação de disciplinas com nível de relevância.
+
 Caixa de texto para digitar e colocar a tarefa da área escolhida.
 
 # Passo a passo para uso:
 Escolha a disciplina.
+
 Digite a tarefa.
+
 Selecione o nível de relevância.
+
 Clique em adicionar para adicionar ao checklist.
 
